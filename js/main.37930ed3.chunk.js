@@ -13,7 +13,7 @@
 		r = t(7),
 		i = t.n(r),
 		l = t(6),
-		d = (t(83), t(84), t(85), t.p + "img/touxiang.jpg"),
+		d = (t(83), t(84), t(85), t.p + "img/touxiang.png"),
 		o = (t.p, t.p, t.p, t.p + "img/blender.1dfc3098.png"),
 		j = t.p + "img/mongo.202e2c9e.png",
 		p = function(e) {
