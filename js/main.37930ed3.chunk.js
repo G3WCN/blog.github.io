@@ -1153,7 +1153,7 @@
 									href: "mailto:l1257@qq.com",
 									target: "_blank",
 									rel: "noreferrer",
-									children: "Contact"
+									children: "联系"
 								})
 							})]
 						}), Object(c.jsx)("div", {
