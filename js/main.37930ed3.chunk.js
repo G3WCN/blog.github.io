@@ -1134,14 +1134,12 @@
 							children: [Object(c.jsx)("span", {
 								children: Object(c.jsx)(A.b, {
 									to: "/",
-									children: "Home"
+									children: "首页"
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsxs)(A.b, {
-									to: "/unescape",
-									children: ["Unescape ", Object(c.jsx)(C.a, {
-										icon: w.b
-									})]
+									to: "/",
+									children: "文章"
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsx)("a", {
@@ -1152,7 +1150,7 @@
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsx)("a", {
-									href: "mailto:blueedgetechno@gmail.com",
+									href: "mailto:l1257@qq.com",
 									target: "_blank",
 									rel: "noreferrer",
 									children: "Contact"
@@ -1178,12 +1176,12 @@
 							children: [Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
 									to: "/",
-									children: "Home"
+									children: "首页"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
-									to: "/unescape",
-									children: "Unescape"
+									to: "/",
+									children: "文章"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
@@ -1192,7 +1190,7 @@
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
-									href: "mailto:blueedgetechno@gmail.com",
+									href: "mailto:l1257@qq.com",
 									children: "Contact"
 								})
 							})]
@@ -1228,7 +1226,7 @@
 								icon: Q.d
 							})
 						}), Object(c.jsx)("a", {
-							href: "mailto:blueedgetechno@gmail.com",
+							href: "mailto:l1257@qq.com",
 							target: "_blank",
 							children: Object(c.jsx)(C.a, {
 								icon: w.a
