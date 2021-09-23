@@ -1191,7 +1191,7 @@
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
 									href: "mailto:l1257@qq.com",
-									children: "Contact"
+									children: "联系"
 								})
 							})]
 						})]
@@ -1208,7 +1208,7 @@
 					className: "footCont",
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
-						children: "Copyright \xa9 2021. Blue Edge. All rights reserved"
+						children: "Copyright \xa9 2021. G3W.CN. All rights reserved"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
@@ -1363,7 +1363,7 @@
 				})]
 			})
 		},
-		I = t.p + "static/media/splash.3dcd9938.jpg",
+		I = t.p + "img/splash.3dcd9938.jpg",
 		F = t(41),
 		T = t.n(F),
 		K = t(166),
