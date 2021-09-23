@@ -62,7 +62,7 @@
 								children: "pseudoName"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Blue"'
+								children: '"张"'
 							}), ", \xa0 "]
 						})
 					}), Object(c.jsx)("pre", {
@@ -78,7 +78,7 @@
 								children: "lastname"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Edge"'
+								children: '"伟"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -94,7 +94,7 @@
 								children: "age"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"little more than the age of the earth"'
+								children: '"比地球的年龄长一点！"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -110,7 +110,7 @@
 								children: "gender"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Male"'
+								children: '"男"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -126,7 +126,7 @@
 								children: "hobbies"
 							}), ": [", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Breathing"'
+								children: '"呼吸"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -139,7 +139,7 @@
 							},
 							children: [" \xa0 \xa0 \xa0 \xa0 \xa0 \xa0", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Programming"'
+								children: '"编程"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -152,7 +152,7 @@
 							},
 							children: [" \xa0 \xa0 \xa0 \xa0 \xa0 \xa0", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Playing video Games"'
+								children: '"玩电子游戏"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -165,7 +165,7 @@
 							},
 							children: [" \xa0 \xa0 \xa0 \xa0 \xa0 \xa0", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"hiding dead bodies"'
+								children: '"隐藏尸体"'
 							}), "],"]
 						})
 					}), Object(c.jsx)("pre", {
@@ -191,7 +191,7 @@
 								children: "state"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"oblivion"'
+								children: '"遗忘"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
