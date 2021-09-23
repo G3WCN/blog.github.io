@@ -1212,8 +1212,8 @@
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
-							href: "https://github.com/blueedgetechno",
-							children: "Follow me"
+							href: "https://webify.cloudbase.net/",
+							children: "CloudBase Webify"
 						}), Object(c.jsx)("a", {
 							href: "https://github.com/blueedgetechno",
 							target: "_blank",
