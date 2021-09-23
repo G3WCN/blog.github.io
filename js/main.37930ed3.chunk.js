@@ -1210,11 +1210,13 @@
 					className: "footCont",
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
-						children: "Copyright \xa9 2021. Blue Edge. Powered by <a href="//webify.cloudbase.net/" target="_blank" rel="noopener noreferrer">CloudBase Webify</a>"
+						children: "Copyright \xa9 2021. G3W.CN. All rights reserved
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("span", {
-							children: "Follow me"
+							href: "https://webify.cloudbase.net/",
+							target: "_blank",
+							children: "CloudBase Webify"
 						}), Object(c.jsx)("a", {
 							href: "https://github.com/blueedgetechno",
 							target: "_blank",
