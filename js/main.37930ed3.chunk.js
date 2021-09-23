@@ -1208,7 +1208,7 @@
 					className: "footCont",
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
-						children: "Copyright \xa9 2021. G3W.CN. All rights reserved"
+						children: "Copyright \xa9 2021. G3W.CN  All rights reserved"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
