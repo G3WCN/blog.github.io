@@ -13,9 +13,9 @@
 		r = t(7),
 		i = t.n(r),
 		l = t(6),
-		d = (t(83), t(84), t(85), t.p + "img/touxiang.png"),
-		o = (t.p, t.p, t.p, t.p + "img/blender.1dfc3098.png"),
-		j = t.p + "img/mongo.202e2c9e.png",
+		d = (t(83), t(84), t(85), t.p + "static/media/profile.6966b164.jpg"),
+		o = (t.p, t.p, t.p, t.p + "static/media/blender.1dfc3098.png"),
+		j = t.p + "static/media/mongo.202e2c9e.png",
 		p = function(e) {
 			return Object(c.jsxs)("div", {
 				className: "introCard" + e.curState,
@@ -565,9 +565,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "mailto:wcx@outlook.be",
+									href: "mailto:blueedgetechno@gmail.com",
 									target: "_blank",
-									children: '"wcx@outlook.be"'
+									children: '"blueedgetechno@gmail.com"'
 								})
 							}), ","]
 						})
@@ -1134,12 +1134,12 @@
 							children: [Object(c.jsx)("span", {
 								children: Object(c.jsx)(A.b, {
 									to: "/",
-									children: "首页"
+									children: "Home"
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsxs)(A.b, {
-									to: "course",
-									children: ["文章 ", Object(c.jsx)(C.a, {
+									to: "/unescape",
+									children: ["Unescape ", Object(c.jsx)(C.a, {
 										icon: w.b
 									})]
 								})
@@ -1178,12 +1178,12 @@
 							children: [Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
 									to: "/",
-									children: "首页"
+									children: "Home"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
-									to: "/",
-									children: "文章"
+									to: "/unescape",
+									children: "Unescape"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
@@ -1210,13 +1210,11 @@
 					className: "footCont",
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
-						children: "Copyright \xa9 2021. G3W.CN. All rights reserved
+						children: "Copyright \xa9 2021. Blue Edge. All rights reserved"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
-						children: [Object(c.jsx)("a", {
-							href: "https://webify.cloudbase.net/",
-							target: "_blank",
-							children: "CloudBase Webify"
+						children: [Object(c.jsx)("span", {
+							children: "Follow me"
 						}), Object(c.jsx)("a", {
 							href: "https://github.com/blueedgetechno",
 							target: "_blank",
