@@ -1213,7 +1213,7 @@
 						children: "Copyright \xa9 2021. G3W.CN. All rights reserved
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
-						children: [Object(c.jsx)("span", {
+						children: [Object(c.jsx)("a", {
 							href: "https://webify.cloudbase.net/",
 							target: "_blank",
 							children: "CloudBase Webify"
