@@ -1146,7 +1146,7 @@
 									href: "https://github.com/blueedgetechno",
 									target: "_blank",
 									rel: "noreferrer",
-									children: "Github"
+									children: "代码"
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsx)("a", {
@@ -1186,7 +1186,7 @@
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
 									href: "https://github.com/blueedgetechno",
-									children: "Github"
+									children: "代码"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
