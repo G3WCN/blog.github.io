@@ -1211,7 +1211,8 @@
 						children: "Copyright \xa9 2021. Blue Edge. All rights reserved"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
-						children: [Object(c.jsx)("span", {
+						children: [Object(c.jsx)("a", {
+							href: "https://github.com/blueedgetechno",
 							children: "Follow me"
 						}), Object(c.jsx)("a", {
 							href: "https://github.com/blueedgetechno",
