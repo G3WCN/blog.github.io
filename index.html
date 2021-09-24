@@ -9,6 +9,36 @@
         <link rel="manifest" href="/manifest.json">
         <script src="js/axios.min.js"></script>
         <title>G3网</title>
+	    <script type="text/javascript">
+	function addProgress(e, o, n = null) {
+		var a = "https://blueapi.netlify.app/.netlify/functions/index/api/";
+		if ("localhost" == location.hostname && (a = "http://localhost:9000/.netlify/functions/index/api/"), null != e && null != o) {
+			var t = "",
+			l = {
+				year: "numeric",
+				month: "short",
+				day: "numeric"
+			};
+			if (null != n) {
+				if ("Invalid Date" == (t = new Date(Date.parse(n)).toLocaleDateString("en-US", l))) return void console.log("Bad")
+			} else t = (new Date).toLocaleDateString("en-US", l);
+			a += `progress ? passphrase = $ {
+				e
+			} & date = $ {
+				t
+			} & content = $ {
+				o
+			}`,
+			axios.post(a).then(e = >{
+				200 == e.data.status ? console.log("Done") : console.log(e.data.message)
+			}).
+			catch(e = >{
+				console.log("Error"),
+				console.log(e.message)
+			})
+		} else console.log("Bad")
+	}
+</script>
         <link href="css/main.8c651167.chunk.css" rel="stylesheet">
     </head>
     <body>
