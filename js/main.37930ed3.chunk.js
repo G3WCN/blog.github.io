@@ -1206,7 +1206,7 @@
 				className: "footer",
 				children: Object(c.jsxs)("div", {
 					className: "footCont",
-					}), Object(c.jsxs)("div", {
+					}), Object(c.jsxs)("a", {
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
 						children: "Copyright \xa9 2021. G3W.CN  All rights reserved"
