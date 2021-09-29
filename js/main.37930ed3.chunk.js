@@ -1226,18 +1226,6 @@
 							children: Object(c.jsx)(C.a, {
 								icon: w.a
 							})
-						}), Object(c.jsx)("a", {
-							href: "https://www.behance.net/blueedgetechno",
-							target: "_blank",
-							children: Object(c.jsx)(C.a, {
-								icon: Q.a
-							})
-						}), Object(c.jsx)("a", {
-							href: "https://codepen.io/blueedgetechno",
-							target: "_blank",
-							children: Object(c.jsx)(C.a, {
-								icon: Q.b
-							})
 						})]
 					})]
 				})
