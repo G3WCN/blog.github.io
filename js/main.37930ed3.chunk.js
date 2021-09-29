@@ -1137,8 +1137,10 @@
 									children: "首页"
 								})
 							}), Object(c.jsx)("span", {
-								children: Object(c.jsxs)(A.b, {
-									to: "https://course.g3w.cn/",
+								children: Object(c.jsxs)("a", {
+									href: "https://course.g3w.cn/",
+									target: "_blank",
+									rel: "noreferrer",
 									children: "文章"
 								})
 							}), Object(c.jsx)("span", {
