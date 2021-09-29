@@ -499,9 +499,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://github.com/blueedgetechno",
+									href: "https://github.com/G3WCN",
 									target: "_blank",
-									children: '"github.com/blueedgetechno"'
+									children: '"github.com/G3WCN"'
 								})
 							}), ","]
 						})
@@ -1145,7 +1145,7 @@
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsx)("a", {
-									href: "https://github.com/blueedgetechno",
+									href: "https://github.com/G3WCN",
 									target: "_blank",
 									rel: "noreferrer",
 									children: "代码"
@@ -1187,7 +1187,7 @@
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
-									href: "https://github.com/blueedgetechno",
+									href: "https://github.com/G3WCN",
 									children: "代码"
 								})
 							}), Object(c.jsx)(u.a, {
