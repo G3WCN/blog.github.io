@@ -1202,14 +1202,7 @@
 		var Q = t(40);
 		t(95);
 		function R() {
-			return Object(c.jsx)("div", {
-				className: "footer",
-				children: Object(c.jsxs)("div", {
-					className: "footCont",
-					}), Object(c.jsxs)("a", {
-					children: [Object(c.jsx)("span", {
-						className: "copyrightText",
-						children: "Copyright \xa9 2021. G3W.CN  All rights reserved"
+			return Object(c.jsx)("div",{className:"footer",children:Object(c.jsxs)("div",{className:"footCont",children:[Object(c.jsx)("span",{className:"copyrightText",children:"Copyright \xa9 2021. G3W.CN  All rights reserved"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
