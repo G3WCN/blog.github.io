@@ -1210,12 +1210,7 @@
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
 						children: "Copyright \xa9 2021. G3W.CN  All rights reserved"
-						}), Object(c.jsxs)("div", {
-						className: "socialinks",
-						children: [Object(c.jsx)("a", {
-							href: "https://beian.miit.gov.cn/",
-							children: "豫ICP备2021027687号"
-					}), Object(c.jsxs)("a", {
+					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
 							href: "https://webify.cloudbase.net/",
