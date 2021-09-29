@@ -1124,7 +1124,7 @@
 						children: Object(c.jsx)("span", {
 							children: Object(c.jsx)(A.b, {
 								to: "/",
-								children: "Blue Edge"
+								children: "G3网"
 							})
 						})
 					}), Object(c.jsxs)("div", {
@@ -1138,7 +1138,7 @@
 								})
 							}), Object(c.jsx)("span", {
 								children: Object(c.jsxs)(A.b, {
-									to: "/",
+									to: "https://course.g3w.cn/",
 									children: "文章"
 								})
 							}), Object(c.jsx)("span", {
@@ -1180,7 +1180,7 @@
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
-									to: "/",
+									to: "https://course.g3w.cn/",
 									children: "文章"
 								})
 							}), Object(c.jsx)(u.a, {
@@ -1206,9 +1206,15 @@
 				className: "footer",
 				children: Object(c.jsxs)("div", {
 					className: "footCont",
+					}), Object(c.jsxs)("div", {
 					children: [Object(c.jsx)("span", {
 						className: "copyrightText",
 						children: "Copyright \xa9 2021. G3W.CN  All rights reserved"
+						}), Object(c.jsxs)("div", {
+						className: "socialinks",
+						children: [Object(c.jsx)("a", {
+							href: "https://beian.miit.gov.cn/",
+							children: "豫ICP备2021027687号"
 					}), Object(c.jsxs)("div", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
