@@ -1209,16 +1209,14 @@
 							href: "https://webify.cloudbase.net/",
 							children: "CloudBase Webify"
 						}), Object(c.jsx)("a", {
+							href: "https://beian.miit.gov.cn",
+							target: "_blank",
+							children: "豫ICP备2021027687号"
+						}), Object(c.jsx)("a", {
 							href: "https://github.com/blueedgetechno",
 							target: "_blank",
 							children: Object(c.jsx)(C.a, {
 								icon: Q.c
-							})
-						}), Object(c.jsx)("a", {
-							href: "https://twitter.com/blueedgetechno",
-							target: "_blank",
-							children: Object(c.jsx)(C.a, {
-								icon: Q.d
 							})
 						}), Object(c.jsx)("a", {
 							href: "mailto:l1257@qq.com",
