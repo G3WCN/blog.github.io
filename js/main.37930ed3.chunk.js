@@ -1215,7 +1215,7 @@
 						children: [Object(c.jsx)("a", {
 							href: "https://beian.miit.gov.cn/",
 							children: "豫ICP备2021027687号"
-					}), Object(c.jsxs)("div", {
+					}), Object(c.jsxs)("a", {
 						className: "socialinks",
 						children: [Object(c.jsx)("a", {
 							href: "https://webify.cloudbase.net/",
