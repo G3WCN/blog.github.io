@@ -270,7 +270,7 @@
 								children: "Python"
 							}), " : ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ", \xa0 \xa0"]
 						})
 					}), Object(c.jsx)("pre", {
@@ -286,7 +286,7 @@
 								children: "React"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -302,7 +302,7 @@
 								children: "NodeJs"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -318,7 +318,7 @@
 								children: "Javascript"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Expert"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -334,7 +334,7 @@
 								children: "CSS"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -350,7 +350,7 @@
 								children: "Git"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Expert"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -366,7 +366,7 @@
 								children: "Azure"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -382,7 +382,7 @@
 								children: "MongoDB"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Expert"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -414,7 +414,7 @@
 								children: "Blender"
 							}), ": ", Object(c.jsx)("span", {
 								className: "cm-string",
-								children: '"Intermediate"'
+								children: '"Beginner"'
 							}), ","]
 						})
 					}), Object(c.jsx)("pre", {
@@ -521,9 +521,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://twitter.com/blueedgetechno",
+									href: "/",
 									target: "_blank",
-									children: '"twitter.com/blueedgetechno"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -543,9 +543,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://codeforces.com/profile/blueedge",
+									href: "/",
 									target: "_blank",
-									children: '"codeforces.com/profile/blueedge"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -565,9 +565,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "mailto:blueedgetechno@gmail.com",
+									href: "mailto:l1257@qq.com",
 									target: "_blank",
-									children: '"blueedgetechno@gmail.com"'
+									children: '"l1257@qq.com"'
 								})
 							}), ","]
 						})
@@ -587,9 +587,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://open.spotify.com/user/62axxw0etmycj09el078cock0",
+									href: "/",
 									target: "_blank",
-									children: '"../user/62axxw0etmycj09el078cock0"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -609,9 +609,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://behance.net/blueedgetechno",
+									href: "/",
 									target: "_blank",
-									children: '"behance.net/blueedgetechno"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -631,9 +631,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://codepen.io/blueedgetechno",
+									href: "/",
 									target: "_blank",
-									children: '"codepen.io/blueedgetechno"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -653,9 +653,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://dev.to/blueedgetechno",
+									href: "/",
 									target: "_blank",
-									children: '"dev.to/blueedgetechno"'
+									children: '"暂无"'
 								})
 							})]
 						}), ","]
@@ -675,9 +675,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://stackoverflow.com/users/12115721/blue-edge",
+									href: "/",
 									target: "_blank",
-									children: '"../users/12115721/blue-edge"'
+									children: '"暂无"'
 								})
 							}), ","]
 						})
@@ -697,9 +697,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://discord.com/app",
+									href: "/",
 									target: "_blank",
-									children: '"Blue Edge#1017"'
+									children: '"暂无"'
 								})
 							})]
 						})
@@ -719,9 +719,9 @@
 								children: Object(c.jsx)("a", {
 									className: "sociolink",
 									onClick: s,
-									href: "https://www.youtube.com/channel/UCozhS3MxzCGrPTffh0mqArw",
+									href: "/",
 									target: "_blank",
-									children: '"../channel/UCozhS3MxzCGrPTffh0mqArw"'
+									children: '"暂无"'
 								})
 							})]
 						})
