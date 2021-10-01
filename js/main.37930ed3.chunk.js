@@ -1182,12 +1182,16 @@
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)(A.b, {
-									to: "https://course.g3w.cn/",
+									href: "https://course.g3w.cn/",
+									target: "_blank",
+									rel: "noreferrer",
 									children: "文章"
 								})
 							}), Object(c.jsx)(u.a, {
 								children: Object(c.jsx)("a", {
 									href: "https://github.com/G3WCN",
+									target: "_blank",
+									rel: "noreferrer",
 									children: "代码"
 								})
 							}), Object(c.jsx)(u.a, {
@@ -1214,7 +1218,7 @@
 							href: "https://webify.cloudbase.net/",
 							children: "CloudBase Webify"
 						}), Object(c.jsx)("a", {
-							href: "https://github.com/blueedgetechno",
+							href: "https://github.com/g3wcn",
 							target: "_blank",
 							children: Object(c.jsx)(C.a, {
 								icon: Q.c
