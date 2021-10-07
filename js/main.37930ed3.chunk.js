@@ -1181,7 +1181,7 @@
 									children: "首页"
 								})
 							}), Object(c.jsx)(u.a, {
-								children: Object(c.jsx)(A.b, {
+								children: Object(c.jsx)("a", {
 									href: "https://course.g3w.cn/",
 									target: "_blank",
 									rel: "noreferrer",
